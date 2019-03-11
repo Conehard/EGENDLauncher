@@ -1,0 +1,10 @@
+D:\Projetos\Egend\Top\Launcher\Launcher\bin\Debug\Launcher.exe.config
+D:\Projetos\Egend\Top\Launcher\Launcher\bin\Debug\Launcher.exe
+D:\Projetos\Egend\Top\Launcher\Launcher\bin\Debug\Launcher.pdb
+D:\Projetos\Egend\Top\Launcher\Launcher\obj\Debug\Launcher.Form1.resources
+D:\Projetos\Egend\Top\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Projetos\Egend\Top\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Projetos\Egend\Top\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Projetos\Egend\Top\Launcher\Launcher\obj\Debug\Launcher.exe
+D:\Projetos\Egend\Top\Launcher\Launcher\obj\Debug\Launcher.pdb
+D:\Projetos\Egend\Top\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
